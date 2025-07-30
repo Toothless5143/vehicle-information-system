@@ -45,7 +45,7 @@ java -version
 #### 2. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/vehicle-information-system.git
+git clone https://github.com/Toothless5143/vehicle-information-system.git
 cd vehicle-information-system
 ```
 *(Replace `your-username` with your actual GitHub username)*
