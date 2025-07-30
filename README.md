@@ -48,7 +48,6 @@ java -version
 git clone https://github.com/Toothless5143/vehicle-information-system.git
 cd vehicle-information-system
 ```
-*(Replace `your-username` with your actual GitHub username)*
 
 #### 3. Compile the Code
 
